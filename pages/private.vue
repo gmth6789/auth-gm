@@ -3,7 +3,7 @@
     <div class="col-12">
       <div v-if="pending">Loading ...</div>
       <Card v-else class="text-center">
-        <template #title>Welcome, {{ user?.email }}</template>
+        <template #title>ยินดีต้อนรับ, {{ user?.email }}</template>
         <template #content>
           <div>{{ data }}</div>
         </template>

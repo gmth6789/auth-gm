@@ -38,7 +38,7 @@
                 success-message="Nice and secure!"
               />
               <Button
-                :label="disabled ? 'Please wait...' : 'Sign in'"
+                :label="disabled ? 'กรุณารอสักครู่...' : 'Sign in'"
                 class="w-full p-3 text-xl submit-btn"
                 ref="submitBtn"
                 type="submit"

@@ -1,13 +1,13 @@
 export default defineNuxtConfig({
   app: {
     head: {
-      title: 'Nuxt3 + Firebase9 Authentication Demo',
+      title: 'แพลตฟอร์มสร้างรายได้ออนไลน์',
       meta: [
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         {
           hid: 'description',
           name: 'description',
-          content: 'Nuxt3 + Firebase Authentication Demo'
+          content: 'Nuxt3 + Firebase Authentication'
         }
       ],
       link: [

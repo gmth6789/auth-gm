@@ -7,7 +7,7 @@
         </template>
         <template #footer>
           <NuxtLink to="/login">
-            <Button label="Go to Login" />
+            <Button label="ไปที่หน้าล็อคอิน" />
           </NuxtLink>
         </template>
       </Card>
